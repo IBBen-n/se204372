@@ -16,5 +16,4 @@ public class OurGroup {
     public Vector<String> getGroupMembers () {
         return groupMembers;
     }
-
 }
